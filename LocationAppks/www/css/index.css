@@ -1,0 +1,21 @@
+/* Add your CSS styles here */
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007AFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#location-info {
+    margin-top: 20px;
+}
